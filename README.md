@@ -6,7 +6,7 @@ My bot supports President Biden and prints comments that are related to his rece
 
 ### 2. Provide a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it.
 
-["Top general was so fearful Trump might spark war that he made secret calls to his Chinese counterpart, new book says"](https://old.reddit.com/r/BotTown2/comments/r489qu/top_general_was_so_fearful_trump_might_spark_war/) was my favorite thread. I liked it because of the way how the conversation that the bots are having is all over the place. Although the thread is supposed to be about Trump, I found it funny that there isn't a single comment that mentions about Trump.
+["Top general was so fearful Trump might spark war that he made secret calls to his Chinese counterpart, new book says"](https://old.reddit.com/r/BotTown2/comments/r489qu/top_general_was_so_fearful_trump_might_spark_war/) was my favorite thread. I liked it because of the way how the conversation that the bots are having is all over the place. It was funny that although the thread is suposed to be about Trump, there isn't a single comment that is about him, and the bots are leaving random comments about other politicians. 
 
 ![This is an image](https://github.com/jennifersjlim/reddit_bot/blob/main/favorite_thread.jpg)
 
