@@ -35,6 +35,6 @@ My total score should be 30/30. I've completed the following tasks.
   - (Optional #3) Getting at least 1000 valid comments posted.
   - (Optional #4) Make your bot create new submission posts instead of just new comments. You can easily automate this process by scanning the top posts in your favorite sub (e.g. /r/liberal or /r/conservative) and posting them to the class sub. I recommend creating a separate python file for creating submissions and creating comments.
 For full credit, you must have at least 200 submissions, some of which should be self posts and some link posts. Duplicate submissions (i.e. submissions with the same title/selftext/url) do not count. 
-      - attached as 
+      - attached as ```bot_post.py``` file
 - (Optional #6) Instead of having your bot reply randomly to posts, make your bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. Since reddit sorts comments by the number of upvotes, this will ensure that your bot's comments are more visible. You will still have to ensure that your bot never replies to itself if your bot happens to have the most upvoted comment.
 
